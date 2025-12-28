@@ -24,7 +24,7 @@ export default function Home() {
     <Navbar />
     <section className="main-section">
       <div className="page-heading py-16">
-        <h1>Crack Your Resume Before Interviewer Crack it!</h1>
+        <h1>Crack Your Resume Before <span className="text-[#FF0000] font-bold">Interviewer Crack it!</span></h1>
         <h2>Upload your resume and let our AI analyze it for you</h2>
       </div>
 
